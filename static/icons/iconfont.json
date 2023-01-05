@@ -1,0 +1,149 @@
+{
+  "id": "3843948",
+  "name": "model-website",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1166331",
+      "name": "测量距离",
+      "font_class": "chizi",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "20599684",
+      "name": "复位",
+      "font_class": "fuwei",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "24277152",
+      "name": "角度",
+      "font_class": "jiaodu",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "24888090",
+      "name": "管线长度",
+      "font_class": "guanxianchangdu",
+      "unicode": "e6cc",
+      "unicode_decimal": 59084
+    },
+    {
+      "icon_id": "33615547",
+      "name": "06-左箭头-copy",
+      "font_class": "zuojiantou-copy",
+      "unicode": "eb12",
+      "unicode_decimal": 60178
+    },
+    {
+      "icon_id": "625906",
+      "name": "06-左箭头",
+      "font_class": "zuojiantou",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "12097596",
+      "name": "全部",
+      "font_class": "quanbu",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "31229434",
+      "name": "地表透明",
+      "font_class": "dibiaotouming",
+      "unicode": "e765",
+      "unicode_decimal": 59237
+    },
+    {
+      "icon_id": "1112302",
+      "name": "隐藏",
+      "font_class": "yincang",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "1135934",
+      "name": "重置",
+      "font_class": "reset",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "3294750",
+      "name": "透明度调节",
+      "font_class": "toumingdutiaojie",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "5387604",
+      "name": "取消全屏",
+      "font_class": "quxiaoquanping",
+      "unicode": "eb10",
+      "unicode_decimal": 60176
+    },
+    {
+      "icon_id": "5387606",
+      "name": "全屏",
+      "font_class": "quanping",
+      "unicode": "eb11",
+      "unicode_decimal": 60177
+    },
+    {
+      "icon_id": "6677522",
+      "name": "距离测量",
+      "font_class": "juliceliang",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "8288891",
+      "name": "眼睛",
+      "font_class": "yanjing",
+      "unicode": "e857",
+      "unicode_decimal": 59479
+    },
+    {
+      "icon_id": "12323780",
+      "name": "移动到",
+      "font_class": "yidongdao",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "12522770",
+      "name": "测量",
+      "font_class": "celiang",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "13638677",
+      "name": "移动",
+      "font_class": "yidong",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "16404472",
+      "name": "线性拖动",
+      "font_class": "xianxingtuodong",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "17811458",
+      "name": "ic_复位",
+      "font_class": "ic_fuwei",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    }
+  ]
+}
