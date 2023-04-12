@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 3843948 */
-  src: url('iconfont.woff2?t=1672896634754') format('woff2'),
-       url('iconfont.woff?t=1672896634754') format('woff'),
-       url('iconfont.ttf?t=1672896634754') format('truetype');
+  src: url('iconfont.woff2?t=1681109771065') format('woff2'),
+       url('iconfont.woff?t=1681109771065') format('woff'),
+       url('iconfont.ttf?t=1681109771065') format('truetype');
 }
 
 .iconfont {
@@ -11,6 +11,74 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-fangda:before {
+  content: "\e600";
+}
+
+.icon-qm:before {
+  content: "\e646";
+}
+
+.icon-xunhuan1:before {
+  content: "\e610";
+}
+
+.icon-icon-:before {
+  content: "\e62c";
+}
+
+.icon-fangda1:before {
+  content: "\e72f";
+}
+
+.icon-fangda2:before {
+  content: "\e713";
+}
+
+.icon-close:before {
+  content: "\e602";
+}
+
+.icon-repeatoff:before {
+  content: "\ea46";
+}
+
+.icon-repeat:before {
+  content: "\e690";
+}
+
+.icon-repeat-one:before {
+  content: "\e6fc";
+}
+
+.icon-repeat-one-copy:before {
+  content: "\eb13";
+}
+
+.icon-repeat-copy:before {
+  content: "\eb14";
+}
+
+.icon-repeatoff-copy:before {
+  content: "\eb15";
+}
+
+.icon-playcircle:before {
+  content: "\e80f";
+}
+
+.icon-zanting:before {
+  content: "\e667";
+}
+
+.icon-zanting1:before {
+  content: "\e613";
+}
+
+.icon-zanting2:before {
+  content: "\e89a";
 }
 
 .icon-chizi:before {
